@@ -21,8 +21,7 @@ function App() {
             <div className="car-listings">
               <div className="car-card">
                 <div className="car-details">
-                  <h2>Car Name</h2>
-
+                  <h2>Find a Car</h2>
                 <label htmlFor="car">Search for Available Cars</label>
               <input type="text" id="car" />
                   
